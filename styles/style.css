@@ -22,7 +22,7 @@ header{
     background-color: rgb(7, 7, 7);
     padding: 10px;
     border-style: solid;
-    border-color: white;
+    border-color: rgb(139, 139, 139);
 }
 .img-cont img{
     margin-left: auto;
